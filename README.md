@@ -1,3 +1,3 @@
 HENG JIU XIAO
 20874172
-![image]/img/GitHistory.PNG)
+![image](/img/GitHistory.PNG)
